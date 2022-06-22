@@ -1,2 +1,2 @@
 # squad-manager
-Em desenvolvimento
+Aplicação .Net Core
